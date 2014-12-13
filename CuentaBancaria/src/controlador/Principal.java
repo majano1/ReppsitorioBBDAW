@@ -1,6 +1,6 @@
-package controlador1;
+package controlador;
 
-import modelo1.Cuenta;
+import modelo.Cuenta;
 
 public class Principal {
 

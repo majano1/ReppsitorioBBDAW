@@ -1,4 +1,4 @@
-package modelo1;
+package modelo;
 
 public class Cuenta {
 	private String titular;
